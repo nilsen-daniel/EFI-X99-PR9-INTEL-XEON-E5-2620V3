@@ -52,7 +52,7 @@ Please use [*ProperTree*](https://github.com/corpnewt/ProperTree/archive/refs/he
 - WhateverGreen.kext
 
 ## Mapped USB
-- [Hackintool](https://raw.githubusercontent.com/nilsen-daniel/EFI-X99-PR9-INTEL-XEON-E5-2620V3/refs/heads/main/Images/USBmap.png)
+![about-12 3 1](https://raw.githubusercontent.com/nilsen-daniel/EFI-X99-PR9-INTEL-XEON-E5-2620V3/refs/heads/main/Images/USBmap.png)
 
 ## Thanks/Credits
 - [Opencore Team](https://dortania.github.io/getting-started/)
