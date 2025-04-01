@@ -1,6 +1,6 @@
 # Machinist X99 PR9 + Intel Xeon E5 2620v3 + GTX 750TI
 
-![about-12 3 1]()
+![about-12 3 1](https://raw.githubusercontent.com/nilsen-daniel/EFI-X99-PR9-INTEL-XEON-E5-2620V3/refs/heads/main/Images/SpecsX99.png)
 
 **Latest working macOS**: 10.13.6
 <br>
@@ -50,6 +50,9 @@ Please use [*ProperTree*](https://github.com/corpnewt/ProperTree/archive/refs/he
 - VirtualSMC.kext
 - VoodooHDA.kext
 - WhateverGreen.kext
+
+## Mapped USB
+- [Hackintool](https://raw.githubusercontent.com/nilsen-daniel/EFI-X99-PR9-INTEL-XEON-E5-2620V3/refs/heads/main/Images/USBmap.png)
 
 ## Thanks/Credits
 - [Opencore Team](https://dortania.github.io/getting-started/)
