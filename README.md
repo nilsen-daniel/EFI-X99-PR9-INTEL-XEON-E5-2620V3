@@ -2,7 +2,7 @@
 
 ![about-12 3 1](https://raw.githubusercontent.com/nilsen-daniel/EFI-X99-PR9-INTEL-XEON-E5-2620V3/refs/heads/main/Images/SpecsX99.png)
 
-**Latest working macOS**: 10.13.6
+**Latest working macOS**: 10.13.6 (17G14033) - Need to open app store and itunes before to show up the update option
 <br>
 **Current OpenCore**: 1.0.4
 
